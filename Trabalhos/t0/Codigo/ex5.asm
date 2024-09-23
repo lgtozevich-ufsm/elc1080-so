@@ -6,11 +6,14 @@ TECL    DEFINE 4
 TECLOK  DEFINE 5
 TELA    DEFINE 6
 TELAOK  DEFINE 7
+RANDOM  DEFINE 18
 
 LIMPA   DEFINE 10 ; \n, limpa a linha
 
          cargi str1
          chama escstr
+         le RANDOM
+         armm segredo
 laco     chama lechute
          chama vechute
          desvz laco
@@ -18,6 +21,7 @@ laco     chama lechute
 str1     string 'Olá. Escolhi um número entre 1 e 100. Adivinha qual.       '
 str2     valor LIMPA
          string 'Digite um número entre 1 e 100 '
+segredo espaco 1
 
 ; lê um número do usuário, até que seja válido
 lechute  espaco 1
@@ -61,7 +65,7 @@ msg_peq  string 'muito pequeno, tente novamente '
 msg_gr   string 'muito grande, tente novamente '
 msg_ok   string 'parabéns, você acertou!!'
 chute    espaco 1
-segredo  valor 42
+
 
 ; função para ler um char da entrada (retorna em A)
 lechar  espaco 1
