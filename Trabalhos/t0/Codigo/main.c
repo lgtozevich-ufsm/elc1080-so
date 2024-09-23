@@ -81,6 +81,7 @@ static void destroi_hardware(hardware_t *hw)
   relogio_destroi(hw->relogio);
   console_destroi(hw->console);
   mem_destroi(hw->mem);
+  random_destroi(hw->random_number);
 }
 
 // inicializa a memória com o conteúdo do programa
