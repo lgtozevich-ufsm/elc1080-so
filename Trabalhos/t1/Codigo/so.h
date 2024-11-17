@@ -29,21 +29,19 @@ void so_destroi(so_t *self);
 //   qual dos arquivos abertos é escolhido para ser o de entrada ou
 //   saída correntes.
 
-
 // lê um caractere do dispositivo de entrada do processo
 // retorna em A: o caractere lido ou um código de erro negativo
-#define SO_LE          1
+#define SO_LE 1
 
 // escreve um caractere no dispositivo de saída do processo
 // recebe em X o caractere a escrever
 // retorna em A: 0 se OK ou um código de erro negativo
-#define SO_ESCR        2
+#define SO_ESCR 2
 
 // #define SO_ABRE        3
 // #define SO_FECHA       4
 // #define SO_SEL_LE      5
 // #define SO_SEL_ESCR    6
-
 
 // Chamadas para gerenciamento de processos
 // O sistema cria um processo automaticamente na sua inicialização,
@@ -61,12 +59,12 @@ void so_destroi(so_t *self);
 //   que realiza esta chamada, a partir da posição em X até antes
 //   da posição que contém um valor 0.
 // retorna em A: pid do processo criado, ou código de erro negativo
-#define SO_CRIA_PROC   7
+#define SO_CRIA_PROC 7
 
 // mata um processo
 // recebe em X o pid do processo a matar ou 0 para o processo chamador
 // retorna em A: 0 se OK ou um código de erro negativo
-#define SO_MATA_PROC   8
+#define SO_MATA_PROC 8
 
 // espera um processo terminar
 // recebe em X o pid do processo a esperar
