@@ -412,13 +412,11 @@ static int so_trata_interrupcao(void *argC, int reg_A)
   // esse print polui bastante, recomendo tirar quando estiver com mais confiança
   // console_printf("SO: recebi IRQ %d (%s)", irq, QTD_IRQome(irq));
 
-  // sincroniza o relógio do SO com o relógio da CPU
-
   // salva o estado da cpu no descritor do processo que foi interrompido
   console_printf("SO: salvando estado da CPU");
   so_salva_estado_da_cpu(self);
 
-  console_printf("SO: sincronizando");
+  console_printf("SO: calculando métricas");
   so_calc_metricas(self);
 
   console_printf("SO: tratando IRQ %d", irq);
