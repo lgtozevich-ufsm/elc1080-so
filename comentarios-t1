@@ -155,12 +155,73 @@ gabriel
       estiver morto (ou for o próprio processo), não deve bloquear.
 
 jonathan+eduardo
-lucas
-joao
-murilo
-lorenzo
-luis antunes
+  ptable.h,c - tabela de processos
+    check_waiting - ??
+    pid não pode ser índice em um vetor
+  ulist.h,c - lista de espera pela morte de processos
+  so.c
+    o escalona tá chamando priority_mode e standard_mode. é pra ser assim mesmo?
+    load_registers só deveria ser executado pela despacha()
+    faço minha tua pergunta
+        // Por quê?
+        process_set_state(found, ready);
+  geral
+    a prioridade deveria ser entre 0 e 1 (é sempre a média entre a prio anterior
+      que está entre 0 e 1 e t_exec/quantum, em que t_exec está entre 0 e quantum).
 
+lucas
+  dispositivos.h - constantes para facilitar id dos terminais
+  processo.h,c - processo (get, set), métricas
+  so.c
+    verifica_leitura - só tá vendo se dá para ler, mas não tá lendo!
+    verifica_morte - e se so_busca_processo retornar NULL?
+    tá acessando IRQ_END_* fora das rotinar para salvar e recuperar o estado da cpu
+    cria_proc não tá retornando -1 em A para o processo quando criação falha
+    so_chamada_mata_proc vai chamar set_a do processo NULL:
+      if (corrente != NULL) ...;
+      else set_a(corrente, -1);
+
+joao
+  so.c - tudo
+    quando desbloqueia da leitura, não lê
+    tem acesso solto a IRQ_END_*
+  geral
+    a prioridade não deveria ficar maior que 1 (o t_exec é sempre entre 0 e quantum)
+    merecia ter umas funçõezinhas auxiliares para reduzir a poluição
+
+murilo
+  escalonador.h,c - vazios
+  processo.h,c - processo (get, set)
+  so.c
+  geral
+    coloquei esse print no so_despacha:
+      console_printf("desp %d prio %.3f, qt=%d", proc->pid, proc->prioridade, self->quantum);
+      o quantum fica negativo, a prioridade fica enorme (devia ser entre 0 e 1)
+      não está escalonando o processo com maior prioridade (menor número)
+
+lorenzo
+  controlador.h,c - controle de terminais
+  escalonador.h,c - escalonador e fila de processos
+    achei estranho que o escalonador escolhe o primeiro processo no estado "EXEC_PROC"
+  processo.h,c - processo (pouco mais que get, set)
+  tabela.h,c - formatador para métricas
+  so.c
+
+luis antunes
+  proc.h,c - processo (get, set)
+  so.c
+    tem funções de debug!
+    a + b / (c / 2) != (a + b / c) / 2
+    trata_pendencia_leitura - desbloqueia o processo, mas não faz a leitura
+    não pode atualizar a prioridade a cada interrupção. a prioridade é calculada
+      à partir da parcela do quantum que o processo usou, o que só é conhecido
+      quando ele para de executar.
+
+luana
+  controle_portas.h,c - controle dos terminais
+  escalonador.h,c - escalonadores
+  processo.h,c - processo (get, set)
+  so.c
 
 geralzão
   vários tão calculando o tempo em um estado atualizando todos os processos cada
@@ -210,3 +271,6 @@ geralzão
     podia ser um vetor...
   tem alguns trabalhos em que parece que a leitura de dados não funciona. Que tal
     converter e rodar um dos programas exemplo que tem leitura do teclado?
+
+Mais geralzão ainda, mas a culpa é do prof
+  Me passei na forma de calcular o tempo médio de resposta. Tempo de resposta é o tempo entre o processo ser desbloqueado e ele ser executado. É o tempo em que ele fica no estado pronto depois de desbloquear. Tempo médio de resposta é a média desses tempos. Seria a divisão entre o tempo total no estado pronto pelo número de vezes que esteve no estado pronto se o único motivo de ir para o estado pronto fosse quando é desbloqueado. Não precisa alterar os trabalhos, mas precisa saber que tempo médio de resposta não é o que está sendo calculado.
