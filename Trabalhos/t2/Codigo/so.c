@@ -584,7 +584,7 @@ static void atualiza_prioridade(so_t *self)
 {
   if (self->processo_corrente != NULL)
   {
-    self->processo_corrente->prioridade = (self->processo_corrente->prioridade + (QUANTUM - self->quantum_proc) / (float)QUANTUM) / 2;
+    self->processo_corrente->prioridade = ((self->processo_corrente->prioridade + (QUANTUM - self->quantum_proc) / (float)QUANTUM)) / 2;
   }
 }
 
