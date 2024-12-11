@@ -1,0 +1,1201 @@
+Memória Física:
+
+------------- QUADRO RAM i: 0 --------------
+Endereço 0: 145
+Endereço 1: 2
+Endereço 2: 130
+Endereço 3: 8
+Endereço 4: 130
+Endereço 5: 1
+Endereço 6: 0
+Endereço 7: 0
+Endereço 8: 0
+Endereço 9: 0
+
+------------- QUADRO RAM i: 1 --------------
+Endereço 10: 27
+Endereço 11: 18
+Endereço 12: 14
+Endereço 13: 26
+Endereço 14: 1
+Endereço 15: 0
+Endereço 16: 0
+Endereço 17: 0
+Endereço 18: 0
+Endereço 19: 0
+
+------------- QUADRO RAM i: 2 --------------
+Endereço 20: 0
+Endereço 21: 0
+Endereço 22: 0
+Endereço 23: 0
+Endereço 24: 0
+Endereço 25: 0
+Endereço 26: 0
+Endereço 27: 0
+Endereço 28: 0
+Endereço 29: 0
+
+------------- QUADRO RAM i: 3 --------------
+Endereço 30: 0
+Endereço 31: 0
+Endereço 32: 0
+Endereço 33: 0
+Endereço 34: 0
+Endereço 35: 0
+Endereço 36: 0
+Endereço 37: 0
+Endereço 38: 0
+Endereço 39: 0
+
+------------- QUADRO RAM i: 4 --------------
+Endereço 40: 0
+Endereço 41: 0
+Endereço 42: 0
+Endereço 43: 0
+Endereço 44: 0
+Endereço 45: 0
+Endereço 46: 0
+Endereço 47: 0
+Endereço 48: 0
+Endereço 49: 0
+
+------------- QUADRO RAM i: 5 --------------
+Endereço 50: 0
+Endereço 51: 0
+Endereço 52: 0
+Endereço 53: 0
+Endereço 54: 0
+Endereço 55: 0
+Endereço 56: 0
+Endereço 57: 0
+Endereço 58: 0
+Endereço 59: 0
+
+------------- QUADRO RAM i: 6 --------------
+Endereço 60: 0
+Endereço 61: 0
+Endereço 62: 0
+Endereço 63: 0
+Endereço 64: 0
+Endereço 65: 0
+Endereço 66: 0
+Endereço 67: 0
+Endereço 68: 0
+Endereço 69: 0
+
+------------- QUADRO RAM i: 7 --------------
+Endereço 70: 0
+Endereço 71: 0
+Endereço 72: 0
+Endereço 73: 0
+Endereço 74: 0
+Endereço 75: 0
+Endereço 76: 0
+Endereço 77: 0
+Endereço 78: 0
+Endereço 79: 0
+
+------------- QUADRO RAM i: 8 --------------
+Endereço 80: 0
+Endereço 81: 0
+Endereço 82: 0
+Endereço 83: 0
+Endereço 84: 0
+Endereço 85: 0
+Endereço 86: 0
+Endereço 87: 0
+Endereço 88: 0
+Endereço 89: 0
+
+------------- QUADRO RAM i: 9 --------------
+Endereço 90: 0
+Endereço 91: 0
+Endereço 92: 0
+Endereço 93: 0
+Endereço 94: 0
+Endereço 95: 0
+Endereço 96: 0
+Endereço 97: 0
+Endereço 98: 0
+Endereço 99: 0
+
+------------- QUADRO RAM i: 10 --------------
+Endereço 100: 109
+Endereço 101: 105
+Endereço 102: 110
+Endereço 103: 97
+Endereço 104: 110
+Endereço 105: 100
+Endereço 106: 111
+Endereço 107: 46
+Endereço 108: 46
+Endereço 109: 46
+
+------------- QUADRO RAM i: 11 --------------
+Endereço 110: 33
+Endereço 111: 32
+Endereço 112: 0
+Endereço 113: 54
+Endereço 114: 7
+Endereço 115: 4
+Endereço 116: 0
+Endereço 117: 17
+Endereço 118: 154
+Endereço 119: 21
+
+------------- QUADRO RAM i: 12 --------------
+Endereço 120: 0
+Endereço 121: 110
+Endereço 122: 97
+Endereço 123: 111
+Endereço 124: 32
+Endereço 125: 109
+Endereço 126: 111
+Endereço 127: 114
+Endereço 128: 114
+Endereço 129: 105
+
+------------- QUADRO RAM i: 13 --------------
+Endereço 130: 156
+Endereço 131: 9
+Endereço 132: 16
+Endereço 133: 145
+Endereço 134: 22
+Endereço 135: 143
+Endereço 136: 151
+Endereço 137: 7
+Endereço 138: 5
+Endereço 139: 169
+
+------------- QUADRO RAM i: 14 --------------
+Endereço 140: 2
+Endereço 141: 2
+Endereço 142: 25
+Endereço 143: 7
+Endereço 144: 3
+Endereço 145: 169
+Endereço 146: 7
+Endereço 147: 22
+Endereço 148: 156
+Endereço 149: 129
+
+------------- QUADRO RAM i: 15 --------------
+Endereço 150: 32
+Endereço 151: 105
+Endereço 152: 110
+Endereço 153: 105
+Endereço 154: 99
+Endereço 155: 105
+Endereço 156: 97
+Endereço 157: 108
+Endereço 158: 105
+Endereço 159: 122
+
+------------- QUADRO RAM i: 16 --------------
+Endereço 160: 97
+Endereço 161: 110
+Endereço 162: 100
+Endereço 163: 111
+Endereço 164: 46
+Endereço 165: 46
+Endereço 166: 46
+Endereço 167: 0
+Endereço 168: 112
+Endereço 169: 49
+
+------------- QUADRO RAM i: 17 --------------
+Endereço 170: 7
+Endereço 171: 2
+Endereço 172: 7
+Endereço 173: 25
+Endereço 174: 5
+Endereço 175: 109
+Endereço 176: 2
+Endereço 177: 95
+Endereço 178: 7
+Endereço 179: 2
+
+------------- QUADRO RAM i: 18 --------------
+Endereço 180: 46
+Endereço 181: 109
+Endereço 182: 97
+Endereço 183: 113
+Endereço 184: 0
+Endereço 185: 112
+Endereço 186: 50
+Endereço 187: 46
+Endereço 188: 109
+Endereço 189: 97
+
+------------- QUADRO RAM i: 19 --------------
+Endereço 190: 16
+Endereço 191: 70
+Endereço 192: 112
+Endereço 193: 49
+Endereço 194: 32
+Endereço 195: 32
+Endereço 196: 40
+Endereço 197: 98
+Endereço 198: 97
+Endereço 199: 115
+
+------------- QUADRO RAM i: 20 --------------
+Endereço 200: 113
+Endereço 201: 0
+Endereço 202: 112
+Endereço 203: 51
+Endereço 204: 46
+Endereço 205: 109
+Endereço 206: 97
+Endereço 207: 113
+Endereço 208: 0
+Endereço 209: 2
+
+------------- QUADRO RAM i: 21 --------------
+Endereço 210: 21
+Endereço 211: 88
+Endereço 212: 21
+Endereço 213: 118
+Endereço 214: 21
+Endereço 215: 111
+Endereço 216: 21
+Endereço 217: 79
+Endereço 218: 1
+Endereço 219: 78
+
+------------- QUADRO RAM i: 22 --------------
+Endereço 220: 7
+Endereço 221: 25
+Endereço 222: 5
+Endereço 223: 110
+Endereço 224: 2
+Endereço 225: 102
+Endereço 226: 7
+Endereço 227: 2
+Endereço 228: 7
+Endereço 229: 25
+
+------------- QUADRO RAM i: 23 --------------
+Endereço 230: 2
+Endereço 231: 0
+Endereço 232: 7
+Endereço 233: 2
+Endereço 234: 8
+Endereço 235: 25
+Endereço 236: 22
+Endereço 237: 79
+Endereço 238: 72
+Endereço 239: 2
+
+------------- QUADRO RAM i: 24 --------------
+Endereço 240: 3
+Endereço 241: 4
+Endereço 242: 105
+Endereço 243: 110
+Endereço 244: 105
+Endereço 245: 116
+Endereço 246: 32
+Endereço 247: 116
+Endereço 248: 101
+Endereço 249: 114
+
+------------- QUADRO RAM i: 25 --------------
+Endereço 250: 2
+Endereço 251: 21
+Endereço 252: 140
+Endereço 253: 2
+Endereço 254: 1000
+Endereço 255: 21
+Endereço 256: 167
+Endereço 257: 2
+Endereço 258: 47
+Endereço 259: 21
+
+------------- QUADRO RAM i: 26 --------------
+Endereço 260: 16
+Endereço 261: 72
+Endereço 262: 112
+Endereço 263: 50
+Endereço 264: 32
+Endereço 265: 32
+Endereço 266: 40
+Endereço 267: 109
+Endereço 268: -61
+Endereço 269: -87
+
+------------- QUADRO RAM i: 27 --------------
+Endereço 270: 5
+Endereço 271: 111
+Endereço 272: 3
+Endereço 273: 109
+Endereço 274: 7
+Endereço 275: 2
+Endereço 276: 9
+Endereço 277: 25
+Endereço 278: 3
+Endereço 279: 110
+
+------------- QUADRO RAM i: 28 --------------
+Endereço 280: 93
+Endereço 281: 7
+Endereço 282: 4
+Endereço 283: 0
+Endereço 284: 17
+Endereço 285: 151
+Endereço 286: 21
+Endereço 287: 153
+Endereço 288: 9
+Endereço 289: 16
+
+------------- QUADRO RAM i: 29 --------------
+Endereço 290: 32
+Endereço 291: 0
+Endereço 292: 21
+Endereço 293: 90
+Endereço 294: 21
+Endereço 295: 120
+Endereço 296: 21
+Endereço 297: 113
+Endereço 298: 21
+Endereço 299: 81
+
+------------- QUADRO RAM i: 30 --------------
+Endereço 300: 142
+Endereço 301: 22
+Endereço 302: 140
+Endereço 303: 116
+Endereço 304: 7
+Endereço 305: 5
+Endereço 306: 166
+Endereço 307: 2
+Endereço 308: 2
+Endereço 309: 25
+
+------------- QUADRO RAM i: 31 --------------
+Endereço 310: 74
+Endereço 311: 2
+Endereço 312: 2
+Endereço 313: 21
+Endereço 314: 142
+Endereço 315: 2
+Endereço 316: 200
+Endereço 317: 21
+Endereço 318: 169
+Endereço 319: 2
+
+------------- QUADRO RAM i: 32 --------------
+Endereço 320: 16
+Endereço 321: 70
+Endereço 322: 112
+Endereço 323: 51
+Endereço 324: 32
+Endereço 325: 32
+Endereço 326: 40
+Endereço 327: 112
+Endereço 328: 111
+Endereço 329: 117
+
+------------- QUADRO RAM i: 33 --------------
+Endereço 330: 7
+Endereço 331: 3
+Endereço 332: 166
+Endereço 333: 7
+Endereço 334: 22
+Endereço 335: 153
+Endereço 336: 1000
+Endereço 337: 131
+Endereço 338: 5
+Endereço 339: 237
+
+------------- QUADRO RAM i: 34 --------------
+Endereço 340: 116
+Endereço 341: 97
+Endereço 342: 110
+Endereço 343: 116
+Endereço 344: 101
+Endereço 345: 32
+Endereço 346: 67
+Endereço 347: 80
+Endereço 348: 85
+Endereço 349: 32
+
+------------- QUADRO RAM i: 35 --------------
+Endereço 350: 25
+Endereço 351: 200
+Endereço 352: 95
+Endereço 353: 7
+Endereço 354: 4
+Endereço 355: 0
+Endereço 356: 17
+Endereço 357: 153
+Endereço 358: 21
+Endereço 359: 155
+
+------------- QUADRO RAM i: 36 --------------
+Endereço 360: 112
+Endereço 361: 111
+Endereço 362: 117
+Endereço 363: 99
+Endereço 364: 97
+Endereço 365: 32
+Endereço 366: 69
+Endereço 367: 47
+Endereço 368: 83
+Endereço 369: 41
+
+------------- QUADRO RAM i: 37 --------------
+Endereço 370: 9
+Endereço 371: 16
+Endereço 372: 144
+Endereço 373: 22
+Endereço 374: 142
+Endereço 375: 118
+Endereço 376: 7
+Endereço 377: 5
+Endereço 378: 168
+Endereço 379: 2
+
+------------- QUADRO RAM i: 38 --------------
+Endereço 380: 32
+Endereço 381: 32
+Endereço 382: 32
+Endereço 383: 32
+Endereço 384: 32
+Endereço 385: 32
+Endereço 386: 32
+Endereço 387: 32
+Endereço 388: 32
+Endereço 389: 32
+
+------------- QUADRO RAM i: 39 --------------
+Endereço 390: 2
+Endereço 391: 25
+Endereço 392: 7
+Endereço 393: 3
+Endereço 394: 168
+Endereço 395: 7
+Endereço 396: 22
+Endereço 397: 155
+Endereço 398: 200
+Endereço 399: 133
+
+------------- QUADRO RAM i: 40 --------------
+Endereço 400: 32
+Endereço 401: 32
+Endereço 402: 32
+Endereço 403: 32
+Endereço 404: 32
+Endereço 405: 32
+Endereço 406: 32
+Endereço 407: 32
+Endereço 408: 32
+Endereço 409: 32
+
+------------- QUADRO RAM i: 41 --------------
+Endereço 410: 100
+Endereço 411: 105
+Endereço 412: 97
+Endereço 413: 32
+Endereço 414: 67
+Endereço 415: 80
+Endereço 416: 85
+Endereço 417: 44
+Endereço 418: 32
+Endereço 419: 109
+
+------------- QUADRO RAM i: 42 --------------
+Endereço 420: 32
+Endereço 421: 32
+Endereço 422: 32
+Endereço 423: 32
+Endereço 424: 32
+Endereço 425: 32
+Endereço 426: 32
+Endereço 427: 32
+Endereço 428: 32
+Endereço 429: 32
+
+------------- QUADRO RAM i: 43 --------------
+Endereço 430: -61
+Endereço 431: -87
+Endereço 432: 100
+Endereço 433: 105
+Endereço 434: 97
+Endereço 435: 32
+Endereço 436: 69
+Endereço 437: 47
+Endereço 438: 83
+Endereço 439: 41
+
+------------- QUADRO RAM i: 44 --------------
+Endereço 440: 32
+Endereço 441: 32
+Endereço 442: 32
+Endereço 443: 32
+Endereço 444: 32
+Endereço 445: 32
+Endereço 446: 32
+Endereço 447: 32
+Endereço 448: 32
+Endereço 449: 0
+
+------------- QUADRO RAM i: 45 --------------
+Endereço 450: 32
+Endereço 451: 32
+Endereço 452: 32
+Endereço 453: 32
+Endereço 454: 32
+Endereço 455: 32
+Endereço 456: 32
+Endereço 457: 32
+Endereço 458: 32
+Endereço 459: 32
+
+------------- QUADRO RAM i: 46 --------------
+Endereço 460: 213
+Endereço 461: 2
+Endereço 462: 32
+Endereço 463: 21
+Endereço 464: 153
+Endereço 465: 22
+Endereço 466: 167
+Endereço 467: 1000
+Endereço 468: 0
+Endereço 469: 48
+
+------------- QUADRO RAM i: 47 --------------
+Endereço 470: 32
+Endereço 471: 32
+Endereço 472: 32
+Endereço 473: 32
+Endereço 474: 32
+Endereço 475: 32
+Endereço 476: 32
+Endereço 477: 32
+Endereço 478: 32
+Endereço 479: 32
+
+------------- QUADRO RAM i: 48 --------------
+Endereço 480: 20
+Endereço 481: 187
+Endereço 482: 19
+Endereço 483: 180
+Endereço 484: 2
+Endereço 485: 48
+Endereço 486: 21
+Endereço 487: 153
+Endereço 488: 16
+Endereço 489: 231
+
+------------- QUADRO RAM i: 49 --------------
+Endereço 490: 21
+Endereço 491: 88
+Endereço 492: 21
+Endereço 493: 118
+Endereço 494: 21
+Endereço 495: 111
+Endereço 496: 21
+Endereço 497: 79
+Endereço 498: 1
+Endereço 499: 78
+
+------------- QUADRO RAM i: 50 --------------
+Endereço 500: 32
+Endereço 501: 32
+Endereço 502: 32
+Endereço 503: 32
+Endereço 504: 32
+Endereço 505: 32
+Endereço 506: 32
+Endereço 507: 32
+Endereço 508: 32
+Endereço 509: 32
+
+------------- QUADRO RAM i: 51 --------------
+Endereço 510: 15
+Endereço 511: 5
+Endereço 512: 237
+Endereço 513: 2
+Endereço 514: 45
+Endereço 515: 21
+Endereço 516: 153
+Endereço 517: 2
+Endereço 518: 1
+Endereço 519: 5
+
+------------- QUADRO RAM i: 52 --------------
+Endereço 520: 2
+Endereço 521: 0
+Endereço 522: 7
+Endereço 523: 2
+Endereço 524: 8
+Endereço 525: 25
+Endereço 526: 22
+Endereço 527: 79
+Endereço 528: 72
+Endereço 529: 2
+
+------------- QUADRO RAM i: 53 --------------
+Endereço 530: 32
+Endereço 531: 32
+Endereço 532: 32
+Endereço 533: 32
+Endereço 534: 32
+Endereço 535: 32
+Endereço 536: 32
+Endereço 537: 32
+Endereço 538: 32
+Endereço 539: 32
+
+------------- QUADRO RAM i: 54 --------------
+Endereço 540: 238
+Endereço 541: 3
+Endereço 542: 238
+Endereço 543: 11
+Endereço 544: 237
+Endereço 545: 17
+Endereço 546: 213
+Endereço 547: 20
+Endereço 548: 207
+Endereço 549: 3
+
+------------- QUADRO RAM i: 55 --------------
+Endereço 550: 2
+Endereço 551: 21
+Endereço 552: 140
+Endereço 553: 2
+Endereço 554: 50
+Endereço 555: 21
+Endereço 556: 167
+Endereço 557: 2
+Endereço 558: 47
+Endereço 559: 21
+
+------------- QUADRO RAM i: 56 --------------
+Endereço 560: 5
+Endereço 561: 239
+Endereço 562: 20
+Endereço 563: 189
+Endereço 564: 19
+Endereço 565: 182
+Endereço 566: 2
+Endereço 567: 48
+Endereço 568: 21
+Endereço 569: 155
+
+------------- QUADRO RAM i: 57 --------------
+Endereço 570: 238
+Endereço 571: 12
+Endereço 572: 240
+Endereço 573: 5
+Endereço 574: 238
+Endereço 575: 16
+Endereço 576: 191
+Endereço 577: 3
+Endereço 578: 238
+Endereço 579: 13
+
+------------- QUADRO RAM i: 58 --------------
+Endereço 580: 240
+Endereço 581: 20
+Endereço 582: 215
+Endereço 583: 2
+Endereço 584: 32
+Endereço 585: 21
+Endereço 586: 155
+Endereço 587: 22
+Endereço 588: 169
+Endereço 589: 200
+
+------------- QUADRO RAM i: 59 --------------
+Endereço 590: 93
+Endereço 591: 7
+Endereço 592: 4
+Endereço 593: 0
+Endereço 594: 17
+Endereço 595: 151
+Endereço 596: 21
+Endereço 597: 153
+Endereço 598: 9
+Endereço 599: 16
+
+------------- QUADRO RAM i: 60 --------------
+Endereço 600: 10
+Endereço 601: 0
+Endereço 602: 0
+Endereço 603: 0
+Endereço 604: 0
+Endereço 605: 0
+Endereço 606: 0
+Endereço 607: 0
+Endereço 608: 0
+Endereço 609: 0
+
+------------- QUADRO RAM i: 61 --------------
+Endereço 610: 240
+Endereço 611: 5
+Endereço 612: 238
+Endereço 613: 3
+Endereço 614: 237
+Endereço 615: 13
+Endereço 616: 238
+Endereço 617: 14
+Endereço 618: 240
+Endereço 619: 10
+
+------------- QUADRO RAM i: 62 --------------
+Endereço 620: 16
+Endereço 621: 233
+Endereço 622: 15
+Endereço 623: 5
+Endereço 624: 239
+Endereço 625: 2
+Endereço 626: 45
+Endereço 627: 21
+Endereço 628: 155
+Endereço 629: 2
+
+------------- QUADRO RAM i: 63 --------------
+Endereço 630: 239
+Endereço 631: 21
+Endereço 632: 153
+Endereço 633: 3
+Endereço 634: 238
+Endereço 635: 13
+Endereço 636: 240
+Endereço 637: 5
+Endereço 638: 238
+Endereço 639: 20
+
+------------- QUADRO RAM i: 64 --------------
+Endereço 640: 1
+Endereço 641: 5
+Endereço 642: 240
+Endereço 643: 3
+Endereço 644: 240
+Endereço 645: 11
+Endereço 646: 239
+Endereço 647: 17
+Endereço 648: 215
+Endereço 649: 20
+
+------------- QUADRO RAM i: 65 --------------
+Endereço 650: 142
+Endereço 651: 22
+Endereço 652: 140
+Endereço 653: 116
+Endereço 654: 7
+Endereço 655: 5
+Endereço 656: 166
+Endereço 657: 2
+Endereço 658: 2
+Endereço 659: 25
+
+------------- QUADRO RAM i: 66 --------------
+Endereço 660: 153
+Endereço 661: 2
+Endereço 662: 500
+Endereço 663: 21
+Endereço 664: 167
+Endereço 665: 2
+Endereço 666: 91
+Endereço 667: 21
+Endereço 668: 153
+Endereço 669: 22
+
+------------- QUADRO RAM i: 67 --------------
+Endereço 670: 0
+Endereço 671: 48
+Endereço 672: 10
+Endereço 673: 0
+Endereço 674: 0
+Endereço 675: 0
+Endereço 676: 0
+Endereço 677: 0
+Endereço 678: 0
+Endereço 679: 0
+
+------------- QUADRO RAM i: 68 --------------
+Endereço 680: 7
+Endereço 681: 3
+Endereço 682: 166
+Endereço 683: 7
+Endereço 684: 22
+Endereço 685: 153
+Endereço 686: 50
+Endereço 687: 131
+Endereço 688: 5
+Endereço 689: 237
+
+------------- QUADRO RAM i: 69 --------------
+Endereço 690: 88
+Endereço 691: 76
+Endereço 692: 2
+Endereço 693: 93
+Endereço 694: 21
+Endereço 695: 153
+Endereço 696: 22
+Endereço 697: 111
+Endereço 698: 74
+Endereço 699: 2
+
+------------- QUADRO RAM i: 70 --------------
+Endereço 700: 209
+Endereço 701: 3
+Endereço 702: 240
+Endereço 703: 12
+Endereço 704: 242
+Endereço 705: 5
+Endereço 706: 240
+Endereço 707: 16
+Endereço 708: 193
+Endereço 709: 3
+
+------------- QUADRO RAM i: 71 --------------
+Endereço 710: 0
+Endereço 711: 7
+Endereço 712: 9
+Endereço 713: 8
+Endereço 714: 14
+Endereço 715: 138
+Endereço 716: 18
+Endereço 717: 131
+Endereço 718: 8
+Endereço 719: 21
+
+------------- QUADRO RAM i: 72 --------------
+Endereço 720: 240
+Endereço 721: 13
+Endereço 722: 242
+Endereço 723: 5
+Endereço 724: 240
+Endereço 725: 3
+Endereço 726: 239
+Endereço 727: 13
+Endereço 728: 240
+Endereço 729: 14
+
+------------- QUADRO RAM i: 73 --------------
+Endereço 730: 167
+Endereço 731: 8
+Endereço 732: 11
+Endereço 733: 139
+Endereço 734: 18
+Endereço 735: 122
+Endereço 736: 22
+Endereço 737: 118
+Endereço 738: 500
+Endereço 739: 1000
+
+------------- QUADRO RAM i: 74 --------------
+Endereço 740: 242
+Endereço 741: 10
+Endereço 742: 241
+Endereço 743: 21
+Endereço 744: 155
+Endereço 745: 3
+Endereço 746: 240
+Endereço 747: 13
+Endereço 748: 242
+Endereço 749: 5
+
+------------- QUADRO RAM i: 75 --------------
+Endereço 750: 47
+Endereço 751: 21
+Endereço 752: 155
+Endereço 753: 2
+Endereço 754: 25
+Endereço 755: 21
+Endereço 756: 169
+Endereço 757: 2
+Endereço 758: 91
+Endereço 759: 21
+
+------------- QUADRO RAM i: 76 --------------
+Endereço 760: 155
+Endereço 761: 22
+Endereço 762: 90
+Endereço 763: 78
+Endereço 764: 2
+Endereço 765: 93
+Endereço 766: 21
+Endereço 767: 155
+Endereço 768: 22
+Endereço 769: 113
+
+------------- QUADRO RAM i: 77 --------------
+Endereço 770: 76
+Endereço 771: 2
+Endereço 772: 0
+Endereço 773: 7
+Endereço 774: 9
+Endereço 775: 8
+Endereço 776: 14
+Endereço 777: 140
+Endereço 778: 18
+Endereço 779: 133
+
+------------- QUADRO RAM i: 78 --------------
+Endereço 780: 8
+Endereço 781: 21
+Endereço 782: 169
+Endereço 783: 8
+Endereço 784: 11
+Endereço 785: 141
+Endereço 786: 18
+Endereço 787: 124
+Endereço 788: 22
+Endereço 789: 120
+
+------------- QUADRO RAM i: 79 --------------
+Endereço 790: 99
+Endereço 791: 97
+Endereço 792: 32
+Endereço 793: 67
+Endereço 794: 80
+Endereço 795: 85
+Endereço 796: 44
+Endereço 797: 32
+Endereço 798: 98
+Endereço 799: 97
+
+------------- QUADRO RAM i: 80 --------------
+Endereço 800: 115
+Endereço 801: 116
+Endereço 802: 97
+Endereço 803: 110
+Endereço 804: 116
+Endereço 805: 101
+Endereço 806: 32
+Endereço 807: 69
+Endereço 808: 47
+Endereço 809: 83
+
+------------- QUADRO RAM i: 81 --------------
+Endereço 810: 7
+Endereço 811: 2
+Endereço 812: 9
+Endereço 813: 25
+Endereço 814: 3
+Endereço 815: 111
+Endereço 816: 7
+Endereço 817: 2
+Endereço 818: 9
+Endereço 819: 25
+
+------------- QUADRO RAM i: 82 --------------
+Endereço 820: 41
+Endereço 821: 32
+Endereço 822: 32
+Endereço 823: 32
+Endereço 824: 32
+Endereço 825: 32
+Endereço 826: 32
+Endereço 827: 32
+Endereço 828: 32
+Endereço 829: 32
+
+------------- QUADRO RAM i: 83 --------------
+Endereço 830: 32
+Endereço 831: 32
+Endereço 832: 32
+Endereço 833: 32
+Endereço 834: 32
+Endereço 835: 32
+Endereço 836: 32
+Endereço 837: 32
+Endereço 838: 32
+Endereço 839: 32
+
+------------- QUADRO RAM i: 84 --------------
+Endereço 840: 32
+Endereço 841: 32
+Endereço 842: 32
+Endereço 843: 32
+Endereço 844: 32
+Endereço 845: 32
+Endereço 846: 32
+Endereço 847: 32
+Endereço 848: 32
+Endereço 849: 32
+
+------------- QUADRO RAM i: 85 --------------
+Endereço 850: 32
+Endereço 851: 32
+Endereço 852: 32
+Endereço 853: 32
+Endereço 854: 32
+Endereço 855: 32
+Endereço 856: 32
+Endereço 857: 32
+Endereço 858: 32
+Endereço 859: 0
+
+------------- QUADRO RAM i: 86 --------------
+Endereço 860: 213
+Endereço 861: 2
+Endereço 862: 32
+Endereço 863: 21
+Endereço 864: 153
+Endereço 865: 22
+Endereço 866: 167
+Endereço 867: 50
+Endereço 868: 0
+Endereço 869: 48
+
+------------- QUADRO RAM i: 87 --------------
+Endereço 870: 20
+Endereço 871: 187
+Endereço 872: 19
+Endereço 873: 180
+Endereço 874: 2
+Endereço 875: 48
+Endereço 876: 21
+Endereço 877: 153
+Endereço 878: 16
+Endereço 879: 231
+
+------------- QUADRO RAM i: 88 --------------
+Endereço 880: 15
+Endereço 881: 5
+Endereço 882: 237
+Endereço 883: 2
+Endereço 884: 45
+Endereço 885: 21
+Endereço 886: 153
+Endereço 887: 2
+Endereço 888: 1
+Endereço 889: 5
+
+------------- QUADRO RAM i: 89 --------------
+Endereço 890: 238
+Endereço 891: 3
+Endereço 892: 238
+Endereço 893: 11
+Endereço 894: 237
+Endereço 895: 17
+Endereço 896: 213
+Endereço 897: 20
+Endereço 898: 207
+Endereço 899: 3
+
+------------- QUADRO RAM i: 90 --------------
+Endereço 900: 238
+Endereço 901: 12
+Endereço 902: 240
+Endereço 903: 5
+Endereço 904: 238
+Endereço 905: 16
+Endereço 906: 191
+Endereço 907: 3
+Endereço 908: 238
+Endereço 909: 13
+
+------------- QUADRO RAM i: 91 --------------
+Endereço 910: 10
+Endereço 911: 0
+Endereço 912: 0
+Endereço 913: 0
+Endereço 914: 0
+Endereço 915: 0
+Endereço 916: 0
+Endereço 917: 0
+Endereço 918: 0
+Endereço 919: 0
+
+------------- QUADRO RAM i: 92 --------------
+Endereço 920: 240
+Endereço 921: 5
+Endereço 922: 238
+Endereço 923: 3
+Endereço 924: 237
+Endereço 925: 13
+Endereço 926: 238
+Endereço 927: 14
+Endereço 928: 240
+Endereço 929: 10
+
+------------- QUADRO RAM i: 93 --------------
+Endereço 930: 239
+Endereço 931: 21
+Endereço 932: 153
+Endereço 933: 3
+Endereço 934: 238
+Endereço 935: 13
+Endereço 936: 240
+Endereço 937: 5
+Endereço 938: 238
+Endereço 939: 20
+
+------------- QUADRO RAM i: 94 --------------
+Endereço 940: 153
+Endereço 941: 2
+Endereço 942: 1
+Endereço 943: 21
+Endereço 944: 167
+Endereço 945: 2
+Endereço 946: 91
+Endereço 947: 21
+Endereço 948: 153
+Endereço 949: 22
+
+------------- QUADRO RAM i: 95 --------------
+Endereço 950: 88
+Endereço 951: 76
+Endereço 952: 2
+Endereço 953: 93
+Endereço 954: 21
+Endereço 955: 153
+Endereço 956: 22
+Endereço 957: 111
+Endereço 958: 74
+Endereço 959: 2
+
+------------- QUADRO RAM i: 96 --------------
+Endereço 960: 0
+Endereço 961: 7
+Endereço 962: 9
+Endereço 963: 8
+Endereço 964: 14
+Endereço 965: 138
+Endereço 966: 18
+Endereço 967: 131
+Endereço 968: 8
+Endereço 969: 21
+
+------------- QUADRO RAM i: 97 --------------
+Endereço 970: 167
+Endereço 971: 8
+Endereço 972: 11
+Endereço 973: 139
+Endereço 974: 18
+Endereço 975: 122
+Endereço 976: 22
+Endereço 977: 118
+Endereço 978: 1
+Endereço 979: 50
+
+------------- QUADRO RAM i: 98 --------------
+Endereço 980: 1
+Endereço 981: 80
+Endereço 982: 2
+Endereço 983: 0
+Endereço 984: 7
+Endereço 985: 2
+Endereço 986: 8
+Endereço 987: 25
+Endereço 988: 22
+Endereço 989: 81
+
+------------- QUADRO RAM i: 99 --------------
+Endereço 990: 2
+Endereço 991: 112
+Endereço 992: 21
+Endereço 993: 143
+Endereço 994: 2
+Endereço 995: 0
+Endereço 996: 7
+Endereço 997: 2
+Endereço 998: 8
+Endereço 999: 25

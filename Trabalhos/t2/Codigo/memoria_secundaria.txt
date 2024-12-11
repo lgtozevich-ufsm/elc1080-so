@@ -1,0 +1,1201 @@
+Memória Secundária:
+
+------------- QUADRO DISCO i: 0 --------------
+Endereço 0: 2
+Endereço 1: 66
+Endereço 2: 21
+Endereço 3: 143
+Endereço 4: 2
+Endereço 5: 10
+Endereço 6: 21
+Endereço 7: 156
+Endereço 8: 2
+Endereço 9: 88
+
+------------- QUADRO DISCO i: 10 --------------
+Endereço 10: 7
+Endereço 11: 2
+Endereço 12: 7
+Endereço 13: 25
+Endereço 14: 5
+Endereço 15: 109
+Endereço 16: 2
+Endereço 17: 95
+Endereço 18: 7
+Endereço 19: 2
+
+------------- QUADRO DISCO i: 20 --------------
+Endereço 20: 7
+Endereço 21: 25
+Endereço 22: 5
+Endereço 23: 110
+Endereço 24: 2
+Endereço 25: 102
+Endereço 26: 7
+Endereço 27: 2
+Endereço 28: 7
+Endereço 29: 25
+
+------------- QUADRO DISCO i: 30 --------------
+Endereço 30: 5
+Endereço 31: 111
+Endereço 32: 3
+Endereço 33: 109
+Endereço 34: 7
+Endereço 35: 2
+Endereço 36: 9
+Endereço 37: 25
+Endereço 38: 3
+Endereço 39: 110
+
+------------- QUADRO DISCO i: 40 --------------
+Endereço 40: 7
+Endereço 41: 2
+Endereço 42: 9
+Endereço 43: 25
+Endereço 44: 3
+Endereço 45: 111
+Endereço 46: 7
+Endereço 47: 2
+Endereço 48: 9
+Endereço 49: 25
+
+------------- QUADRO DISCO i: 50 --------------
+Endereço 50: 2
+Endereço 51: 112
+Endereço 52: 21
+Endereço 53: 143
+Endereço 54: 2
+Endereço 55: 0
+Endereço 56: 7
+Endereço 57: 2
+Endereço 58: 8
+Endereço 59: 25
+
+------------- QUADRO DISCO i: 60 --------------
+Endereço 60: 2
+Endereço 61: 131
+Endereço 62: 21
+Endereço 63: 143
+Endereço 64: 16
+Endereço 65: 50
+Endereço 66: 105
+Endereço 67: 110
+Endereço 68: 105
+Endereço 69: 116
+
+------------- QUADRO DISCO i: 70 --------------
+Endereço 70: 32
+Endereço 71: 105
+Endereço 72: 110
+Endereço 73: 105
+Endereço 74: 99
+Endereço 75: 105
+Endereço 76: 97
+Endereço 77: 108
+Endereço 78: 105
+Endereço 79: 122
+
+------------- QUADRO DISCO i: 80 --------------
+Endereço 80: 97
+Endereço 81: 110
+Endereço 82: 100
+Endereço 83: 111
+Endereço 84: 46
+Endereço 85: 46
+Endereço 86: 46
+Endereço 87: 0
+Endereço 88: 112
+Endereço 89: 49
+
+------------- QUADRO DISCO i: 90 --------------
+Endereço 90: 46
+Endereço 91: 109
+Endereço 92: 97
+Endereço 93: 113
+Endereço 94: 0
+Endereço 95: 112
+Endereço 96: 50
+Endereço 97: 46
+Endereço 98: 109
+Endereço 99: 97
+
+------------- QUADRO DISCO i: 100 --------------
+Endereço 100: 113
+Endereço 101: 0
+Endereço 102: 112
+Endereço 103: 51
+Endereço 104: 46
+Endereço 105: 109
+Endereço 106: 97
+Endereço 107: 113
+Endereço 108: 0
+Endereço 109: 0
+
+------------- QUADRO DISCO i: 110 --------------
+Endereço 110: 0
+Endereço 111: 0
+Endereço 112: 105
+Endereço 113: 110
+Endereço 114: 105
+Endereço 115: 116
+Endereço 116: 32
+Endereço 117: 116
+Endereço 118: 101
+Endereço 119: 114
+
+------------- QUADRO DISCO i: 120 --------------
+Endereço 120: 109
+Endereço 121: 105
+Endereço 122: 110
+Endereço 123: 97
+Endereço 124: 110
+Endereço 125: 100
+Endereço 126: 111
+Endereço 127: 46
+Endereço 128: 46
+Endereço 129: 46
+
+------------- QUADRO DISCO i: 130 --------------
+Endereço 130: 0
+Endereço 131: 110
+Endereço 132: 97
+Endereço 133: 111
+Endereço 134: 32
+Endereço 135: 109
+Endereço 136: 111
+Endereço 137: 114
+Endereço 138: 114
+Endereço 139: 105
+
+------------- QUADRO DISCO i: 140 --------------
+Endereço 140: 33
+Endereço 141: 32
+Endereço 142: 0
+Endereço 143: 0
+Endereço 144: 7
+Endereço 145: 4
+Endereço 146: 0
+Endereço 147: 17
+Endereço 148: 154
+Endereço 149: 21
+
+------------- QUADRO DISCO i: 150 --------------
+Endereço 150: 156
+Endereço 151: 9
+Endereço 152: 16
+Endereço 153: 145
+Endereço 154: 22
+Endereço 155: 143
+Endereço 156: 0
+Endereço 157: 7
+Endereço 158: 5
+Endereço 159: 169
+
+------------- QUADRO DISCO i: 160 --------------
+Endereço 160: 2
+Endereço 161: 2
+Endereço 162: 25
+Endereço 163: 7
+Endereço 164: 3
+Endereço 165: 169
+Endereço 166: 7
+Endereço 167: 22
+Endereço 168: 156
+Endereço 169: 0
+
+------------- QUADRO DISCO i: 170 --------------
+Endereço 170: 16
+Endereço 171: 70
+Endereço 172: 112
+Endereço 173: 49
+Endereço 174: 32
+Endereço 175: 32
+Endereço 176: 40
+Endereço 177: 98
+Endereço 178: 97
+Endereço 179: 115
+
+------------- QUADRO DISCO i: 180 --------------
+Endereço 180: 116
+Endereço 181: 97
+Endereço 182: 110
+Endereço 183: 116
+Endereço 184: 101
+Endereço 185: 32
+Endereço 186: 67
+Endereço 187: 80
+Endereço 188: 85
+Endereço 189: 32
+
+------------- QUADRO DISCO i: 190 --------------
+Endereço 190: 112
+Endereço 191: 111
+Endereço 192: 117
+Endereço 193: 99
+Endereço 194: 97
+Endereço 195: 32
+Endereço 196: 69
+Endereço 197: 47
+Endereço 198: 83
+Endereço 199: 41
+
+------------- QUADRO DISCO i: 200 --------------
+Endereço 200: 32
+Endereço 201: 32
+Endereço 202: 32
+Endereço 203: 32
+Endereço 204: 32
+Endereço 205: 32
+Endereço 206: 32
+Endereço 207: 32
+Endereço 208: 32
+Endereço 209: 32
+
+------------- QUADRO DISCO i: 210 --------------
+Endereço 210: 32
+Endereço 211: 32
+Endereço 212: 32
+Endereço 213: 32
+Endereço 214: 32
+Endereço 215: 32
+Endereço 216: 32
+Endereço 217: 32
+Endereço 218: 32
+Endereço 219: 32
+
+------------- QUADRO DISCO i: 220 --------------
+Endereço 220: 32
+Endereço 221: 32
+Endereço 222: 32
+Endereço 223: 32
+Endereço 224: 32
+Endereço 225: 32
+Endereço 226: 32
+Endereço 227: 32
+Endereço 228: 32
+Endereço 229: 32
+
+------------- QUADRO DISCO i: 230 --------------
+Endereço 230: 32
+Endereço 231: 32
+Endereço 232: 32
+Endereço 233: 32
+Endereço 234: 32
+Endereço 235: 32
+Endereço 236: 32
+Endereço 237: 32
+Endereço 238: 32
+Endereço 239: 0
+
+------------- QUADRO DISCO i: 240 --------------
+Endereço 240: 21
+Endereço 241: 88
+Endereço 242: 21
+Endereço 243: 118
+Endereço 244: 21
+Endereço 245: 111
+Endereço 246: 21
+Endereço 247: 79
+Endereço 248: 1
+Endereço 249: 0
+
+------------- QUADRO DISCO i: 250 --------------
+Endereço 250: 2
+Endereço 251: 0
+Endereço 252: 7
+Endereço 253: 2
+Endereço 254: 8
+Endereço 255: 25
+Endereço 256: 22
+Endereço 257: 79
+Endereço 258: 0
+Endereço 259: 2
+
+------------- QUADRO DISCO i: 260 --------------
+Endereço 260: 2
+Endereço 261: 21
+Endereço 262: 140
+Endereço 263: 2
+Endereço 264: 1000
+Endereço 265: 21
+Endereço 266: 167
+Endereço 267: 2
+Endereço 268: 47
+Endereço 269: 21
+
+------------- QUADRO DISCO i: 270 --------------
+Endereço 270: 153
+Endereço 271: 2
+Endereço 272: 500
+Endereço 273: 21
+Endereço 274: 167
+Endereço 275: 2
+Endereço 276: 91
+Endereço 277: 21
+Endereço 278: 153
+Endereço 279: 22
+
+------------- QUADRO DISCO i: 280 --------------
+Endereço 280: 88
+Endereço 281: 0
+Endereço 282: 2
+Endereço 283: 93
+Endereço 284: 21
+Endereço 285: 153
+Endereço 286: 22
+Endereço 287: 111
+Endereço 288: 0
+Endereço 289: 2
+
+------------- QUADRO DISCO i: 290 --------------
+Endereço 290: 0
+Endereço 291: 7
+Endereço 292: 9
+Endereço 293: 8
+Endereço 294: 14
+Endereço 295: 138
+Endereço 296: 18
+Endereço 297: 131
+Endereço 298: 8
+Endereço 299: 21
+
+------------- QUADRO DISCO i: 300 --------------
+Endereço 300: 167
+Endereço 301: 8
+Endereço 302: 11
+Endereço 303: 139
+Endereço 304: 18
+Endereço 305: 122
+Endereço 306: 22
+Endereço 307: 118
+Endereço 308: 500
+Endereço 309: 1000
+
+------------- QUADRO DISCO i: 310 --------------
+Endereço 310: 0
+Endereço 311: 7
+Endereço 312: 4
+Endereço 313: 0
+Endereço 314: 17
+Endereço 315: 151
+Endereço 316: 21
+Endereço 317: 153
+Endereço 318: 9
+Endereço 319: 16
+
+------------- QUADRO DISCO i: 320 --------------
+Endereço 320: 142
+Endereço 321: 22
+Endereço 322: 140
+Endereço 323: 0
+Endereço 324: 7
+Endereço 325: 5
+Endereço 326: 166
+Endereço 327: 2
+Endereço 328: 2
+Endereço 329: 25
+
+------------- QUADRO DISCO i: 330 --------------
+Endereço 330: 7
+Endereço 331: 3
+Endereço 332: 166
+Endereço 333: 7
+Endereço 334: 22
+Endereço 335: 153
+Endereço 336: 0
+Endereço 337: 0
+Endereço 338: 5
+Endereço 339: 237
+
+------------- QUADRO DISCO i: 340 --------------
+Endereço 340: 20
+Endereço 341: 187
+Endereço 342: 19
+Endereço 343: 180
+Endereço 344: 2
+Endereço 345: 48
+Endereço 346: 21
+Endereço 347: 153
+Endereço 348: 16
+Endereço 349: 231
+
+------------- QUADRO DISCO i: 350 --------------
+Endereço 350: 15
+Endereço 351: 5
+Endereço 352: 237
+Endereço 353: 2
+Endereço 354: 45
+Endereço 355: 21
+Endereço 356: 153
+Endereço 357: 2
+Endereço 358: 1
+Endereço 359: 5
+
+------------- QUADRO DISCO i: 360 --------------
+Endereço 360: 238
+Endereço 361: 3
+Endereço 362: 238
+Endereço 363: 11
+Endereço 364: 237
+Endereço 365: 17
+Endereço 366: 213
+Endereço 367: 20
+Endereço 368: 207
+Endereço 369: 3
+
+------------- QUADRO DISCO i: 370 --------------
+Endereço 370: 238
+Endereço 371: 12
+Endereço 372: 240
+Endereço 373: 5
+Endereço 374: 238
+Endereço 375: 16
+Endereço 376: 191
+Endereço 377: 3
+Endereço 378: 238
+Endereço 379: 13
+
+------------- QUADRO DISCO i: 380 --------------
+Endereço 380: 240
+Endereço 381: 5
+Endereço 382: 238
+Endereço 383: 3
+Endereço 384: 237
+Endereço 385: 13
+Endereço 386: 238
+Endereço 387: 14
+Endereço 388: 240
+Endereço 389: 10
+
+------------- QUADRO DISCO i: 390 --------------
+Endereço 390: 239
+Endereço 391: 21
+Endereço 392: 153
+Endereço 393: 3
+Endereço 394: 238
+Endereço 395: 13
+Endereço 396: 240
+Endereço 397: 5
+Endereço 398: 238
+Endereço 399: 20
+
+------------- QUADRO DISCO i: 400 --------------
+Endereço 400: 213
+Endereço 401: 2
+Endereço 402: 32
+Endereço 403: 21
+Endereço 404: 153
+Endereço 405: 22
+Endereço 406: 167
+Endereço 407: 0
+Endereço 408: 0
+Endereço 409: 48
+
+------------- QUADRO DISCO i: 410 --------------
+Endereço 410: 10
+Endereço 411: 0
+Endereço 412: 0
+Endereço 413: 0
+Endereço 414: 0
+Endereço 415: 0
+Endereço 416: 0
+Endereço 417: 0
+Endereço 418: 0
+Endereço 419: 0
+
+------------- QUADRO DISCO i: 420 --------------
+Endereço 420: 16
+Endereço 421: 72
+Endereço 422: 112
+Endereço 423: 50
+Endereço 424: 32
+Endereço 425: 32
+Endereço 426: 40
+Endereço 427: 109
+Endereço 428: -61
+Endereço 429: -87
+
+------------- QUADRO DISCO i: 430 --------------
+Endereço 430: 100
+Endereço 431: 105
+Endereço 432: 97
+Endereço 433: 32
+Endereço 434: 67
+Endereço 435: 80
+Endereço 436: 85
+Endereço 437: 44
+Endereço 438: 32
+Endereço 439: 109
+
+------------- QUADRO DISCO i: 440 --------------
+Endereço 440: -61
+Endereço 441: -87
+Endereço 442: 100
+Endereço 443: 105
+Endereço 444: 97
+Endereço 445: 32
+Endereço 446: 69
+Endereço 447: 47
+Endereço 448: 83
+Endereço 449: 41
+
+------------- QUADRO DISCO i: 450 --------------
+Endereço 450: 32
+Endereço 451: 32
+Endereço 452: 32
+Endereço 453: 32
+Endereço 454: 32
+Endereço 455: 32
+Endereço 456: 32
+Endereço 457: 32
+Endereço 458: 32
+Endereço 459: 32
+
+------------- QUADRO DISCO i: 460 --------------
+Endereço 460: 32
+Endereço 461: 32
+Endereço 462: 32
+Endereço 463: 32
+Endereço 464: 32
+Endereço 465: 32
+Endereço 466: 32
+Endereço 467: 32
+Endereço 468: 32
+Endereço 469: 32
+
+------------- QUADRO DISCO i: 470 --------------
+Endereço 470: 32
+Endereço 471: 32
+Endereço 472: 32
+Endereço 473: 32
+Endereço 474: 32
+Endereço 475: 32
+Endereço 476: 32
+Endereço 477: 32
+Endereço 478: 32
+Endereço 479: 32
+
+------------- QUADRO DISCO i: 480 --------------
+Endereço 480: 32
+Endereço 481: 32
+Endereço 482: 32
+Endereço 483: 32
+Endereço 484: 32
+Endereço 485: 32
+Endereço 486: 32
+Endereço 487: 32
+Endereço 488: 32
+Endereço 489: 32
+
+------------- QUADRO DISCO i: 490 --------------
+Endereço 490: 32
+Endereço 491: 0
+Endereço 492: 21
+Endereço 493: 90
+Endereço 494: 21
+Endereço 495: 120
+Endereço 496: 21
+Endereço 497: 113
+Endereço 498: 21
+Endereço 499: 81
+
+------------- QUADRO DISCO i: 500 --------------
+Endereço 500: 1
+Endereço 501: 0
+Endereço 502: 2
+Endereço 503: 0
+Endereço 504: 7
+Endereço 505: 2
+Endereço 506: 8
+Endereço 507: 25
+Endereço 508: 22
+Endereço 509: 81
+
+------------- QUADRO DISCO i: 510 --------------
+Endereço 510: 0
+Endereço 511: 2
+Endereço 512: 2
+Endereço 513: 21
+Endereço 514: 142
+Endereço 515: 2
+Endereço 516: 200
+Endereço 517: 21
+Endereço 518: 169
+Endereço 519: 2
+
+------------- QUADRO DISCO i: 520 --------------
+Endereço 520: 47
+Endereço 521: 21
+Endereço 522: 155
+Endereço 523: 2
+Endereço 524: 25
+Endereço 525: 21
+Endereço 526: 169
+Endereço 527: 2
+Endereço 528: 91
+Endereço 529: 21
+
+------------- QUADRO DISCO i: 530 --------------
+Endereço 530: 155
+Endereço 531: 22
+Endereço 532: 90
+Endereço 533: 0
+Endereço 534: 2
+Endereço 535: 93
+Endereço 536: 21
+Endereço 537: 155
+Endereço 538: 22
+Endereço 539: 113
+
+------------- QUADRO DISCO i: 540 --------------
+Endereço 540: 0
+Endereço 541: 2
+Endereço 542: 0
+Endereço 543: 7
+Endereço 544: 9
+Endereço 545: 8
+Endereço 546: 14
+Endereço 547: 140
+Endereço 548: 18
+Endereço 549: 133
+
+------------- QUADRO DISCO i: 550 --------------
+Endereço 550: 8
+Endereço 551: 21
+Endereço 552: 169
+Endereço 553: 8
+Endereço 554: 11
+Endereço 555: 141
+Endereço 556: 18
+Endereço 557: 124
+Endereço 558: 22
+Endereço 559: 120
+
+------------- QUADRO DISCO i: 560 --------------
+Endereço 560: 25
+Endereço 561: 200
+Endereço 562: 0
+Endereço 563: 7
+Endereço 564: 4
+Endereço 565: 0
+Endereço 566: 17
+Endereço 567: 153
+Endereço 568: 21
+Endereço 569: 155
+
+------------- QUADRO DISCO i: 570 --------------
+Endereço 570: 9
+Endereço 571: 16
+Endereço 572: 144
+Endereço 573: 22
+Endereço 574: 142
+Endereço 575: 0
+Endereço 576: 7
+Endereço 577: 5
+Endereço 578: 168
+Endereço 579: 2
+
+------------- QUADRO DISCO i: 580 --------------
+Endereço 580: 2
+Endereço 581: 25
+Endereço 582: 7
+Endereço 583: 3
+Endereço 584: 168
+Endereço 585: 7
+Endereço 586: 22
+Endereço 587: 155
+Endereço 588: 0
+Endereço 589: 0
+
+------------- QUADRO DISCO i: 590 --------------
+Endereço 590: 5
+Endereço 591: 239
+Endereço 592: 20
+Endereço 593: 189
+Endereço 594: 19
+Endereço 595: 182
+Endereço 596: 2
+Endereço 597: 48
+Endereço 598: 21
+Endereço 599: 155
+
+------------- QUADRO DISCO i: 600 --------------
+Endereço 600: 16
+Endereço 601: 233
+Endereço 602: 15
+Endereço 603: 5
+Endereço 604: 239
+Endereço 605: 2
+Endereço 606: 45
+Endereço 607: 21
+Endereço 608: 155
+Endereço 609: 2
+
+------------- QUADRO DISCO i: 610 --------------
+Endereço 610: 1
+Endereço 611: 5
+Endereço 612: 240
+Endereço 613: 3
+Endereço 614: 240
+Endereço 615: 11
+Endereço 616: 239
+Endereço 617: 17
+Endereço 618: 215
+Endereço 619: 20
+
+------------- QUADRO DISCO i: 620 --------------
+Endereço 620: 209
+Endereço 621: 3
+Endereço 622: 240
+Endereço 623: 12
+Endereço 624: 242
+Endereço 625: 5
+Endereço 626: 240
+Endereço 627: 16
+Endereço 628: 193
+Endereço 629: 3
+
+------------- QUADRO DISCO i: 630 --------------
+Endereço 630: 240
+Endereço 631: 13
+Endereço 632: 242
+Endereço 633: 5
+Endereço 634: 240
+Endereço 635: 3
+Endereço 636: 239
+Endereço 637: 13
+Endereço 638: 240
+Endereço 639: 14
+
+------------- QUADRO DISCO i: 640 --------------
+Endereço 640: 242
+Endereço 641: 10
+Endereço 642: 241
+Endereço 643: 21
+Endereço 644: 155
+Endereço 645: 3
+Endereço 646: 240
+Endereço 647: 13
+Endereço 648: 242
+Endereço 649: 5
+
+------------- QUADRO DISCO i: 650 --------------
+Endereço 650: 240
+Endereço 651: 20
+Endereço 652: 215
+Endereço 653: 2
+Endereço 654: 32
+Endereço 655: 21
+Endereço 656: 155
+Endereço 657: 22
+Endereço 658: 169
+Endereço 659: 0
+
+------------- QUADRO DISCO i: 660 --------------
+Endereço 660: 0
+Endereço 661: 48
+Endereço 662: 10
+Endereço 663: 0
+Endereço 664: 0
+Endereço 665: 0
+Endereço 666: 0
+Endereço 667: 0
+Endereço 668: 0
+Endereço 669: 0
+
+------------- QUADRO DISCO i: 670 --------------
+Endereço 670: 16
+Endereço 671: 70
+Endereço 672: 112
+Endereço 673: 51
+Endereço 674: 32
+Endereço 675: 32
+Endereço 676: 40
+Endereço 677: 112
+Endereço 678: 111
+Endereço 679: 117
+
+------------- QUADRO DISCO i: 680 --------------
+Endereço 680: 99
+Endereço 681: 97
+Endereço 682: 32
+Endereço 683: 67
+Endereço 684: 80
+Endereço 685: 85
+Endereço 686: 44
+Endereço 687: 32
+Endereço 688: 98
+Endereço 689: 97
+
+------------- QUADRO DISCO i: 690 --------------
+Endereço 690: 115
+Endereço 691: 116
+Endereço 692: 97
+Endereço 693: 110
+Endereço 694: 116
+Endereço 695: 101
+Endereço 696: 32
+Endereço 697: 69
+Endereço 698: 47
+Endereço 699: 83
+
+------------- QUADRO DISCO i: 700 --------------
+Endereço 700: 41
+Endereço 701: 32
+Endereço 702: 32
+Endereço 703: 32
+Endereço 704: 32
+Endereço 705: 32
+Endereço 706: 32
+Endereço 707: 32
+Endereço 708: 32
+Endereço 709: 32
+
+------------- QUADRO DISCO i: 710 --------------
+Endereço 710: 32
+Endereço 711: 32
+Endereço 712: 32
+Endereço 713: 32
+Endereço 714: 32
+Endereço 715: 32
+Endereço 716: 32
+Endereço 717: 32
+Endereço 718: 32
+Endereço 719: 32
+
+------------- QUADRO DISCO i: 720 --------------
+Endereço 720: 32
+Endereço 721: 32
+Endereço 722: 32
+Endereço 723: 32
+Endereço 724: 32
+Endereço 725: 32
+Endereço 726: 32
+Endereço 727: 32
+Endereço 728: 32
+Endereço 729: 32
+
+------------- QUADRO DISCO i: 730 --------------
+Endereço 730: 32
+Endereço 731: 32
+Endereço 732: 32
+Endereço 733: 32
+Endereço 734: 32
+Endereço 735: 32
+Endereço 736: 32
+Endereço 737: 32
+Endereço 738: 32
+Endereço 739: 0
+
+------------- QUADRO DISCO i: 740 --------------
+Endereço 740: 21
+Endereço 741: 88
+Endereço 742: 21
+Endereço 743: 118
+Endereço 744: 21
+Endereço 745: 111
+Endereço 746: 21
+Endereço 747: 79
+Endereço 748: 1
+Endereço 749: 0
+
+------------- QUADRO DISCO i: 750 --------------
+Endereço 750: 2
+Endereço 751: 0
+Endereço 752: 7
+Endereço 753: 2
+Endereço 754: 8
+Endereço 755: 25
+Endereço 756: 22
+Endereço 757: 79
+Endereço 758: 0
+Endereço 759: 2
+
+------------- QUADRO DISCO i: 760 --------------
+Endereço 760: 2
+Endereço 761: 21
+Endereço 762: 140
+Endereço 763: 2
+Endereço 764: 50
+Endereço 765: 21
+Endereço 766: 167
+Endereço 767: 2
+Endereço 768: 47
+Endereço 769: 21
+
+------------- QUADRO DISCO i: 770 --------------
+Endereço 770: 153
+Endereço 771: 2
+Endereço 772: 1
+Endereço 773: 21
+Endereço 774: 167
+Endereço 775: 2
+Endereço 776: 91
+Endereço 777: 21
+Endereço 778: 153
+Endereço 779: 22
+
+------------- QUADRO DISCO i: 780 --------------
+Endereço 780: 88
+Endereço 781: 0
+Endereço 782: 2
+Endereço 783: 93
+Endereço 784: 21
+Endereço 785: 153
+Endereço 786: 22
+Endereço 787: 111
+Endereço 788: 0
+Endereço 789: 2
+
+------------- QUADRO DISCO i: 790 --------------
+Endereço 790: 0
+Endereço 791: 7
+Endereço 792: 9
+Endereço 793: 8
+Endereço 794: 14
+Endereço 795: 138
+Endereço 796: 18
+Endereço 797: 131
+Endereço 798: 8
+Endereço 799: 21
+
+------------- QUADRO DISCO i: 800 --------------
+Endereço 800: 167
+Endereço 801: 8
+Endereço 802: 11
+Endereço 803: 139
+Endereço 804: 18
+Endereço 805: 122
+Endereço 806: 22
+Endereço 807: 118
+Endereço 808: 1
+Endereço 809: 50
+
+------------- QUADRO DISCO i: 810 --------------
+Endereço 810: 0
+Endereço 811: 7
+Endereço 812: 4
+Endereço 813: 0
+Endereço 814: 17
+Endereço 815: 151
+Endereço 816: 21
+Endereço 817: 153
+Endereço 818: 9
+Endereço 819: 16
+
+------------- QUADRO DISCO i: 820 --------------
+Endereço 820: 142
+Endereço 821: 22
+Endereço 822: 140
+Endereço 823: 0
+Endereço 824: 7
+Endereço 825: 5
+Endereço 826: 166
+Endereço 827: 2
+Endereço 828: 2
+Endereço 829: 25
+
+------------- QUADRO DISCO i: 830 --------------
+Endereço 830: 7
+Endereço 831: 3
+Endereço 832: 166
+Endereço 833: 7
+Endereço 834: 22
+Endereço 835: 153
+Endereço 836: 0
+Endereço 837: 0
+Endereço 838: 5
+Endereço 839: 237
+
+------------- QUADRO DISCO i: 840 --------------
+Endereço 840: 20
+Endereço 841: 187
+Endereço 842: 19
+Endereço 843: 180
+Endereço 844: 2
+Endereço 845: 48
+Endereço 846: 21
+Endereço 847: 153
+Endereço 848: 16
+Endereço 849: 231
+
+------------- QUADRO DISCO i: 850 --------------
+Endereço 850: 15
+Endereço 851: 5
+Endereço 852: 237
+Endereço 853: 2
+Endereço 854: 45
+Endereço 855: 21
+Endereço 856: 153
+Endereço 857: 2
+Endereço 858: 1
+Endereço 859: 5
+
+------------- QUADRO DISCO i: 860 --------------
+Endereço 860: 238
+Endereço 861: 3
+Endereço 862: 238
+Endereço 863: 11
+Endereço 864: 237
+Endereço 865: 17
+Endereço 866: 213
+Endereço 867: 20
+Endereço 868: 207
+Endereço 869: 3
+
+------------- QUADRO DISCO i: 870 --------------
+Endereço 870: 238
+Endereço 871: 12
+Endereço 872: 240
+Endereço 873: 5
+Endereço 874: 238
+Endereço 875: 16
+Endereço 876: 191
+Endereço 877: 3
+Endereço 878: 238
+Endereço 879: 13
+
+------------- QUADRO DISCO i: 880 --------------
+Endereço 880: 240
+Endereço 881: 5
+Endereço 882: 238
+Endereço 883: 3
+Endereço 884: 237
+Endereço 885: 13
+Endereço 886: 238
+Endereço 887: 14
+Endereço 888: 240
+Endereço 889: 10
+
+------------- QUADRO DISCO i: 890 --------------
+Endereço 890: 239
+Endereço 891: 21
+Endereço 892: 153
+Endereço 893: 3
+Endereço 894: 238
+Endereço 895: 13
+Endereço 896: 240
+Endereço 897: 5
+Endereço 898: 238
+Endereço 899: 20
+
+------------- QUADRO DISCO i: 900 --------------
+Endereço 900: 213
+Endereço 901: 2
+Endereço 902: 32
+Endereço 903: 21
+Endereço 904: 153
+Endereço 905: 22
+Endereço 906: 167
+Endereço 907: 0
+Endereço 908: 0
+Endereço 909: 48
+
+------------- QUADRO DISCO i: 910 --------------
+Endereço 910: 10
+Endereço 911: 0
+Endereço 912: 0
+Endereço 913: 0
+Endereço 914: 0
+Endereço 915: 0
+Endereço 916: 0
+Endereço 917: 0
+Endereço 918: 0
+Endereço 919: 0
+
+------------- QUADRO DISCO i: 920 --------------
+Endereço 920: 0
+Endereço 921: 0
+Endereço 922: 0
+Endereço 923: 0
+Endereço 924: 0
+Endereço 925: 0
+Endereço 926: 0
+Endereço 927: 0
+Endereço 928: 0
+Endereço 929: 0
+
+------------- QUADRO DISCO i: 930 --------------
+Endereço 930: 0
+Endereço 931: 0
+Endereço 932: 0
+Endereço 933: 0
+Endereço 934: 0
+Endereço 935: 0
+Endereço 936: 0
+Endereço 937: 0
+Endereço 938: 0
+Endereço 939: 0
+
+------------- QUADRO DISCO i: 940 --------------
+Endereço 940: 0
+Endereço 941: 0
+Endereço 942: 0
+Endereço 943: 0
+Endereço 944: 0
+Endereço 945: 0
+Endereço 946: 0
+Endereço 947: 0
+Endereço 948: 0
+Endereço 949: 0
+
+------------- QUADRO DISCO i: 950 --------------
+Endereço 950: 0
+Endereço 951: 0
+Endereço 952: 0
+Endereço 953: 0
+Endereço 954: 0
+Endereço 955: 0
+Endereço 956: 0
+Endereço 957: 0
+Endereço 958: 0
+Endereço 959: 0
+
+------------- QUADRO DISCO i: 960 --------------
+Endereço 960: 0
+Endereço 961: 0
+Endereço 962: 0
+Endereço 963: 0
+Endereço 964: 0
+Endereço 965: 0
+Endereço 966: 0
+Endereço 967: 0
+Endereço 968: 0
+Endereço 969: 0
+
+------------- QUADRO DISCO i: 970 --------------
+Endereço 970: 0
+Endereço 971: 0
+Endereço 972: 0
+Endereço 973: 0
+Endereço 974: 0
+Endereço 975: 0
+Endereço 976: 0
+Endereço 977: 0
+Endereço 978: 0
+Endereço 979: 0
+
+------------- QUADRO DISCO i: 980 --------------
+Endereço 980: 0
+Endereço 981: 0
+Endereço 982: 0
+Endereço 983: 0
+Endereço 984: 0
+Endereço 985: 0
+Endereço 986: 0
+Endereço 987: 0
+Endereço 988: 0
+Endereço 989: 0
+
+------------- QUADRO DISCO i: 990 --------------
+Endereço 990: 0
+Endereço 991: 0
+Endereço 992: 0
+Endereço 993: 0
+Endereço 994: 0
+Endereço 995: 0
+Endereço 996: 0
+Endereço 997: 0
+Endereço 998: 0
+Endereço 999: 0

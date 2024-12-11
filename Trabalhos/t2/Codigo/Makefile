@@ -1,6 +1,6 @@
 # configuração para o make, para a compilação do simulador e do montador
 # se alterar este arquivo, cuidado para manter os caracteres "tab" no início das linhas de continuação
-
+SHELL := /bin/bash
 # opções de compilação
 CC = gcc
 CFLAGS = -Wall -Werror -g
@@ -9,7 +9,7 @@ LDLIBS = -lcurses
 # arquivos objeto compilados (.o) que compõem o simulador (main) e o montador
 OBJS_MAIN = cpu.o es.o memoria.o relogio.o console.o terminal.o tela_curses.o \
 		instrucao.o err.o programa.o controle.o main.o \
-		so.o irq.o tabpag.o mmu.o
+		so.o irq.o tabpag.o mmu.o fifo.o
 OBJS_MONTADOR = instrucao.o err.o montador.o
 OBJS = ${OBJS_MAIN} ${OBJS_MONTADOR}
 # arquivos .maq a gerar, com seus endereços

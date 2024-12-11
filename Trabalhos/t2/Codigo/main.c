@@ -18,11 +18,14 @@
 #include <stdlib.h>
 
 // constantes
-#define MEM_TAM 10000        // tamanho da memória principal
+#define MEM_TAM 1000      // tamanho da memória principal
+#define TAM_DISCO 100000 // tamanho da memória secundária
 
 // estrutura com os componentes do computador simulado
-typedef struct {
+typedef struct
+{
   mem_t *mem;
+  mem_t *mem_secundaria;
   mmu_t *mmu;
   cpu_t *cpu;
   relogio_t *relogio;
@@ -35,6 +38,7 @@ static void cria_hardware(hardware_t *hw)
 {
   // cria a memória e a MMU
   hw->mem = mem_cria(MEM_TAM);
+  hw->mem_secundaria = mem_cria(TAM_DISCO);
   hw->mmu = mmu_cria(hw->mem);
 
   // cria dispositivos de E/S
@@ -48,33 +52,33 @@ static void cria_hardware(hardware_t *hw)
   // lê teclado, testa teclado, escreve tela, testa tela do terminal A
   terminal_t *terminal;
   terminal = console_terminal(hw->console, 'A');
-  es_registra_dispositivo(hw->es, D_TERM_A_TECLADO    , terminal, 0, terminal_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_TERM_A_TECLADO_OK , terminal, 1, terminal_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_TERM_A_TELA       , terminal, 2, NULL, terminal_escrita);
-  es_registra_dispositivo(hw->es, D_TERM_A_TELA_OK    , terminal, 3, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_A_TECLADO, terminal, 0, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_A_TECLADO_OK, terminal, 1, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_A_TELA, terminal, 2, NULL, terminal_escrita);
+  es_registra_dispositivo(hw->es, D_TERM_A_TELA_OK, terminal, 3, terminal_leitura, NULL);
   // lê teclado, testa teclado, escreve tela, testa tela do terminal B
   terminal = console_terminal(hw->console, 'B');
-  es_registra_dispositivo(hw->es, D_TERM_B_TECLADO    , terminal, 0, terminal_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_TERM_B_TECLADO_OK , terminal, 1, terminal_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_TERM_B_TELA       , terminal, 2, NULL, terminal_escrita);
-  es_registra_dispositivo(hw->es, D_TERM_B_TELA_OK    , terminal, 3, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_B_TECLADO, terminal, 0, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_B_TECLADO_OK, terminal, 1, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_B_TELA, terminal, 2, NULL, terminal_escrita);
+  es_registra_dispositivo(hw->es, D_TERM_B_TELA_OK, terminal, 3, terminal_leitura, NULL);
   // lê teclado, testa teclado, escreve tela, testa tela do terminal C
   terminal = console_terminal(hw->console, 'C');
-  es_registra_dispositivo(hw->es, D_TERM_C_TECLADO    , terminal, 0, terminal_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_TERM_C_TECLADO_OK , terminal, 1, terminal_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_TERM_C_TELA       , terminal, 2, NULL, terminal_escrita);
-  es_registra_dispositivo(hw->es, D_TERM_C_TELA_OK    , terminal, 3, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_C_TECLADO, terminal, 0, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_C_TECLADO_OK, terminal, 1, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_C_TELA, terminal, 2, NULL, terminal_escrita);
+  es_registra_dispositivo(hw->es, D_TERM_C_TELA_OK, terminal, 3, terminal_leitura, NULL);
   // lê teclado, testa teclado, escreve tela, testa tela do terminal D
   terminal = console_terminal(hw->console, 'D');
-  es_registra_dispositivo(hw->es, D_TERM_D_TECLADO    , terminal, 0, terminal_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_TERM_D_TECLADO_OK , terminal, 1, terminal_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_TERM_D_TELA       , terminal, 2, NULL, terminal_escrita);
-  es_registra_dispositivo(hw->es, D_TERM_D_TELA_OK    , terminal, 3, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_D_TECLADO, terminal, 0, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_D_TECLADO_OK, terminal, 1, terminal_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_TERM_D_TELA, terminal, 2, NULL, terminal_escrita);
+  es_registra_dispositivo(hw->es, D_TERM_D_TELA_OK, terminal, 3, terminal_leitura, NULL);
   // lê relógio virtual, relógio real
   es_registra_dispositivo(hw->es, D_RELOGIO_INSTRUCOES, hw->relogio, 0, relogio_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_RELOGIO_REAL      , hw->relogio, 1, relogio_leitura, NULL);
-  es_registra_dispositivo(hw->es, D_RELOGIO_TIMER     , hw->relogio, 2, relogio_leitura, relogio_escrita);
-  es_registra_dispositivo(hw->es, D_RELOGIO_INTERRUPCAO,hw->relogio, 3, relogio_leitura, relogio_escrita);
+  es_registra_dispositivo(hw->es, D_RELOGIO_REAL, hw->relogio, 1, relogio_leitura, NULL);
+  es_registra_dispositivo(hw->es, D_RELOGIO_TIMER, hw->relogio, 2, relogio_leitura, relogio_escrita);
+  es_registra_dispositivo(hw->es, D_RELOGIO_INTERRUPCAO, hw->relogio, 3, relogio_leitura, relogio_escrita);
 
   // cria a unidade de execução e inicializa com a MMU e E/S
   hw->cpu = cpu_cria(hw->mmu, hw->es);
@@ -103,8 +107,8 @@ int main()
   // cria o hardware
   cria_hardware(&hw);
   // cria o sistema operacional
-  so = so_cria(hw.cpu, hw.mem, hw.mmu, hw.es, hw.console);
-  
+  so = so_cria(hw.cpu, hw.mem, hw.mem_secundaria, hw.mmu, hw.es, hw.console);
+
   // executa o laço principal do controlador
   controle_laco(hw.controle);
 
@@ -112,4 +116,3 @@ int main()
   so_destroi(so);
   destroi_hardware(&hw);
 }
-

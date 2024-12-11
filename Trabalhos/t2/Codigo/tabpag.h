@@ -16,7 +16,28 @@
 #include <stdbool.h>
 
 // tipo opaco que representa a tabela de páginas
-typedef struct tabpag_t tabpag_t;
+
+typedef struct
+{
+    // quadro da memória principal correspondente à página
+    int quadro;
+    // a página está mapeada ou não
+    bool valida;
+    // a página foi acessada ou não
+    bool acessada;
+    // a página foi alterada ou não
+    bool alterada;
+} descritor_t;
+
+typedef struct
+{
+    // número de descritores na tabela (pode ser 0)
+    int tam_tab;
+    // vetor com os descritores
+    // o último descritor do vetor sempre contém uma página válida
+    // pode ser NULL (se tam_tab == 0)
+    descritor_t *tabela;
+} tabpag_t;
 
 // cria uma tabela de páginas
 // retorna um ponteiro para um descritor, que deverá ser usado em todas
@@ -60,5 +81,8 @@ bool tabpag_bit_alteracao(tabpag_t *self, int pagina);
 //   por 'pquadro'
 // retorna ERR_PAG_AUSENTE (e não altera '*pquadro') se a página for inválida
 err_t tabpag_traduz(tabpag_t *self, int pagina, int *pquadro);
+
+// imprime tabela
+void print_tabela_paginas(tabpag_t *tabpag);
 
 #endif // TABPAG_H
