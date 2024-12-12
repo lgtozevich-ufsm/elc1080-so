@@ -893,6 +893,7 @@ static void so_trata_irq_reset(so_t *self)
     return;
   }
   self->processos[0] = init_proc;
+  self->processos[1] = NULL;
   self->processo_corrente = init_proc;
 
   // altera o PC para o endereço de carga
